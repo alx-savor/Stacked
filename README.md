@@ -1,2 +1,2 @@
 # Stacked
-a subway-inspired app utilizing MAUI.
+en subway-inspirerad app som använder sig av MAUI.
