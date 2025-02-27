@@ -1,0 +1,29 @@
+Bröd:
+Ljust bröd
+Sesam bröd
+Fullkorn
+Glutenfritt
+
+Ost:
+Mild Ost
+Stark Ost
+
+Grönsaker:
+Gurka
+Sallad 
+Rödlök 
+Tomat
+
+Dressing/sås:
+BBQ-sås
+Chipotle-sås
+Majonnäs
+Vitlöks-sås
+
+Kött:
+Kalkon
+Skinka
+Bacon
+Salami
+Pepperoni
+Biff/steak
